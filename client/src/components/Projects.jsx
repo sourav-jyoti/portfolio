@@ -8,7 +8,7 @@ export default function Projects() {
   const projects = [
     {
       id: "PRJ-001",
-      title: "AMS – Adaptive Management Suite",
+      title: "My brain",
       icon: <LayoutGrid size={16} className="cyan-text" /> ,
       image: "/ams-bg.png",
       link: "https://ams-adaptive-management-suite.onrender.com",
