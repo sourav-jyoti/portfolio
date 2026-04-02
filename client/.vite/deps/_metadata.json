@@ -1,0 +1,44 @@
+{
+  "hash": "ef038959",
+  "configHash": "efae17f5",
+  "lockfileHash": "03e10ef6",
+  "browserHash": "ab43f92c",
+  "optimized": {
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "2c862b9a",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "97732727",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "fc1b37e8",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "6efa924e",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "50a10b37",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "react-BH0yRK75": {
+      "file": "react-BH0yRK75.js",
+      "isDynamicEntry": false
+    }
+  }
+}
